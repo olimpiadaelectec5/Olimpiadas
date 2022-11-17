@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MacroLib2")(type "KiCad")(uri "${KIPRJMOD}/MacroLib2.kicad_sym")(options "")(descr ""))
+)
